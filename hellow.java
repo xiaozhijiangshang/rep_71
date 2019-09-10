@@ -12,3 +12,8 @@ public string void2(){
 	system.out.println("这是方法3");
 	
 }
+
+public string void3(){
+	system.out.println("这是方法3");
+	
+}
