@@ -7,3 +7,8 @@ public string void (){
 	
 	return "这是方法2！";
 }
+
+public string void2(){
+	system.out.println("这是方法3");
+	
+}
